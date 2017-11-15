@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Dixie County High School (DCHS) </title>
+  </head>
+  <body>
+    <header>
+      <button> Home </button>
+      <button> Announcements </button>
+      <button> Lunchroom Menus </button>
+      <button> Extracurriculars </button>
+    </header>
+    <main>
+      <img src="http://aplusweb.dixie.k12.fl.us/~dchs@dixie.k12.fl.us/S011B5243.1/8202014_111301_0.png" alt="DCHS Logo">
+      <h1 align="center"> Dixie County High School </h1>
+    </main>
+    <footer>
+      <p align="center"> This site was designed and created by the DCHS Hack Club. <br> Approved by Mrs. Diana Locke and Mr. Joe Mack Locke. </p>
+    </footer>
+  </body>
+</html>
 
+<!-- "New in HTML5", so I don't know if "main", "header", and "footer" will work -->
