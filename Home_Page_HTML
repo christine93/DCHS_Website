@@ -1,73 +1,44 @@
 <!DOCTYPE html>
 <html>
-
   <head>
-
     <title> Dixie County High School (DCHS) </title>
-
   </head>
-
   <body>
-
     <header>
-
       <button> Home </button>
-
       <button> Announcements </button>
-
       <button> Lunchroom Menus </button>
-
       <button> Extracurriculars </button>
-
     </header>
-
     <main>
-
       <img src="http://aplusweb.dixie.k12.fl.us/~dchs@dixie.k12.fl.us/S011B5243.1/8202014_111301_0.png" alt="DCHS Logo">
-
       <br>
-
       <h1 align="center"> Dixie County High School </h1>
-
       <h2 align="center"> 16077 NE 19 HWY, Cross City, FL 32628 
         <br> Main Office: (352)-498-6401 
         <br> Fax: (352) 498-1287 </h2>
-
       <br>
-
       <h3> Educational Equity Act – Adult & Career Technical Education </h3>
-
       <p> The School Board of Dixie County is committed to the principle and practice of equal opportunity and affirmative action. 
         <br>The School Board of Dixie County complies with the letter and spirit of federal, state, and local laws and regulations prohibiting discrimination and/or harassment based on race, color, religion, political affiliation, national origin, sex, disability, age or marital status or social and family background. 
         <br>Educational opportunities for students, employees and applicants are provided under the principles, equal opportunity and affirmative action. 
         <br>Dixie District Schools’ designee to coordinate compliance with Educational Equity Act is: </p>
-
       <p> Buddy Schofield, Director of  Elementary and Secondary Education
         <br> Cross City, Florida 32628
         <br> (352) 498-6135 </p>
-
       <img src="http://aplusweb.dixie.k12.fl.us/~dchs@dixie.k12.fl.us/S011B5243.0/dchs08.jpg" alt="DCHS Front Office">
-
     </main>
-
     <footer>
-
       <p align="center"> This site was designed and created by the DCHS Hack Club. <br> Approved by Mrs. Diana Locke and Mr. Joe Mack Locke. </p>
-
       <br>
-
       <address align="center"> Contact 
         <a href="mailto:jacobknox@dixie.k12.fl.us"> Jacob Knox</a>, 
         <a href="mailto:jeremybright@dixie.k12.fl.us"> Jeremy Bright</a>, 
         <a href="mailto:dianalocke@dixie.k12.fl.us"> Diana Locke</a>, and/or 
         <a href="mailto:joemacklocke@dixie.k12.fl.us"> Joe Mack Locke</a> to request an update in information or an addition to the site. </address>
-
     </footer>
-
   </body>
-
 </html>
-
 
 <!-- "New in HTML5", so I don't know if "main", "header", and "footer" will work -->
 <!--- Both images are from the current DCHS Website, so I'm unsure on wether or not they will work once the site is changed -->
