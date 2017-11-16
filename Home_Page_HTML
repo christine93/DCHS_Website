@@ -13,7 +13,9 @@
       <button id="button"><b> Announcements </b></button>
       <button id="button"><b> Lunchroom Menus </b></button>
       <button id="button"><b> Extracurriculars </b></button>
+      <button id="button"><b> Academics </b></button>
     </header>
+    <br>
     <main>
       <img src="http://aplusweb.dixie.k12.fl.us/~dchs@dixie.k12.fl.us/S011B5243.1/8202014_111301_0.png" alt="DCHS Logo">
       <br>
@@ -36,10 +38,10 @@
       <p align="center"> This site was designed and created by the DCHS Hack Club. <br> Approved by Mrs. Diana Locke and Mr. Joe Mack Locke. </p>
       <br>
       <address align="center"> Contact 
-        <a href="mailto:jacobknox@dixie.k12.fl.us"> Jacob Knox</a>, 
-        <a href="mailto:jeremybright@dixie.k12.fl.us"> Jeremy Bright</a>, 
-        <a href="mailto:dianalocke@dixie.k12.fl.us"> Diana Locke</a>, and/or 
-        <a href="mailto:joemacklocke@dixie.k12.fl.us"> Joe Mack Locke</a> to request an update in information or an addition to the site. </address>
+        <a id="link" href="mailto:jacobknox@dixie.k12.fl.us"> Jacob Knox</a>, 
+        <a id="link" href="mailto:jeremybright@dixie.k12.fl.us"> Jeremy Bright</a>, 
+        <a id="link" href="mailto:dianalocke@dixie.k12.fl.us"> Diana Locke</a>, and/or 
+        <a id="link" href="mailto:joemacklocke@dixie.k12.fl.us"> Joe Mack Locke</a> to request an update in information or an addition to the site. </address>
     </footer>
   </body>
 </html>
