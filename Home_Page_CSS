@@ -1,0 +1,11 @@
+body {
+  color: red ;
+  background: black;
+}
+#button {
+  background-color: red;
+  border-radius: 8px;
+}
+#button:hover {
+  background-color: white;
+}
