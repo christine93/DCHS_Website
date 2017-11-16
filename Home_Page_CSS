@@ -1,11 +1,19 @@
 body {
   color: red ;
-  background: black;
+  background-color: black;
 }
 #button {
   background-color: red;
   border-radius: 8px;
 }
 #button:hover {
-  background-color: white;
+  background-color: blue;
+  color: white;
+}
+img {
+  display: block;
+  margin: auto;
+}
+#link {
+  color: white;
 }
