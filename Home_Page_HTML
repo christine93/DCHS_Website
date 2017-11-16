@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <title> Dixie County High School (DCHS) </title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
+    <script src="index.js"></script>
     <header>
-      <button> Home </button>
-      <button> Announcements </button>
-      <button> Lunchroom Menus </button>
-      <button> Extracurriculars </button>
+      <button id="button"><b> Home </b></button>
+      <button id="button"><b> Announcements </b></button>
+      <button id="button"><b> Lunchroom Menus </b></button>
+      <button id="button"><b> Extracurriculars </b></button>
     </header>
     <main>
       <img src="http://aplusweb.dixie.k12.fl.us/~dchs@dixie.k12.fl.us/S011B5243.1/8202014_111301_0.png" alt="DCHS Logo">
@@ -39,6 +43,3 @@
     </footer>
   </body>
 </html>
-
-<!-- "New in HTML5", so I don't know if "main", "header", and "footer" will work -->
-<!--- Both images are from the current DCHS Website, so I'm unsure on wether or not they will work once the site is changed -->
