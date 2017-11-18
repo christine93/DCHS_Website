@@ -17,3 +17,16 @@ img {
 #link {
   color: white;
 }
+#form {
+  color: white;
+}
+#form_box {
+  border-width: 3px;
+  margin-top: 5px;
+}
+#form_boxa {
+  border-width: 3px;
+  margin-top: 5px;
+  height: 50px;
+  width: 500px;
+}
