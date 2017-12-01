@@ -1,22 +1,27 @@
+:root{
+  --BG: #000; /*These are variables, to access just do "var(variable name)" whereever you want the color to be dont mess with these, #333, #e37222*/
+  --FG: red;
+}
+
 body {
-  color: white ;
-  background-color: black;
+  color: black ;
+  background-color: var(--BG);
 }
 h1 {
-  color: red ;
+  color: var(--FG);
 }
 h2 {
-  color: red ;
+  color: var(--FG);
 }
 h3 {
-  color: red ;
+  color: var(--FG);
 }
 #button {
-  background-color: red;
+  background-color: var(--FG);
   border-radius: 8px;
 }
 #button:hover {
-  background-color: blue;
+  background-color: #07889b;
   color: white;
 }
 img {
