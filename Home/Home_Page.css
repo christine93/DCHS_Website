@@ -1,6 +1,15 @@
 body {
-  color: red ;
+  color: white ;
   background-color: black;
+}
+h1 {
+  color: red ;
+}
+h2 {
+  color: red ;
+}
+h3 {
+  color: red ;
 }
 #button {
   background-color: red;
@@ -13,9 +22,6 @@ body {
 img {
   display: block;
   margin: auto;
-}
-#link {
-  color: white;
 }
 #form {
   color: white;
