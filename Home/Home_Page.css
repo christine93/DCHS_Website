@@ -1,43 +1,45 @@
-:root{
-  --BG: #000; /*These are variables, to access just do "var(variable name)" whereever you want the color to be dont mess with these, #333, #e37222*/
-  --FG: red;
+.indent{
+  padding-left:1.8em;
 }
-
-body {
-  color: black ;
-  background-color: var(--BG);
+.link,#form, #button:hover{
+  color:#FFF;
 }
-h1 {
-  color: var(--FG);
+.fb1{
+  margin-left:8px;
 }
-h2 {
-  color: var(--FG);
+.fb2{
+  margin-left:10px;
 }
-h3 {
-  color: var(--FG);
+.fb3{
+  margin-left:41px;
 }
-#button {
-  background-color: var(--FG);
-  border-radius: 8px;
+body{
+  color:#FFF;
+  background-color:#000;
+  font:"Times New Roman";
 }
-#button:hover {
-  background-color: #07889b;
-  color: white;
+h1, h2, h3, .link1{
+  color:red;
 }
-img {
-  display: block;
-  margin: auto;
+#button{
+  background-color:red;
+  border-radius:8px;
 }
-#form {
-  color: white;
+#button:hover{
+  background-color:#07889b;
 }
-#form_box {
-  border-width: 3px;
-  margin-top: 5px;
+img{
+  display:block;
+  margin:auto;
 }
-#form_boxa {
-  border-width: 3px;
-  margin-top: 5px;
-  height: 50px;
-  width: 500px;
+#form_box, #form_boxa{
+  border-width:3px;
+  margin-top:5px;
+  width:500px;
+}
+#form_boxa{
+  height:50px;
+}
+.submit{
+  margin-top:10px;
 }
